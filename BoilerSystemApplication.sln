@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlocksLibrary", "BlocksLibrary\BlocksLibrary.csproj", "{81916F96-3057-44E9-800F-BBA841456FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerSystemApplication", "BoilerSystemApplication\BoilerSystemApplication.csproj", "{3964E819-5C0B-437C-8188-73BABFB1D08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81916F96-3057-44E9-800F-BBA841456FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81916F96-3057-44E9-800F-BBA841456FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81916F96-3057-44E9-800F-BBA841456FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81916F96-3057-44E9-800F-BBA841456FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3964E819-5C0B-437C-8188-73BABFB1D08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3964E819-5C0B-437C-8188-73BABFB1D08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3964E819-5C0B-437C-8188-73BABFB1D08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3964E819-5C0B-437C-8188-73BABFB1D08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B55AA5-F570-4C28-A10A-19DB368B44BE}
+	EndGlobalSection
+EndGlobal
